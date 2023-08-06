@@ -1,2 +1,2 @@
 # Ecommerce
-Ecommerce Anular using git
+Ecommerce Angular using git
